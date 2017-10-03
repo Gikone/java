@@ -17,6 +17,7 @@ public class Tablero {
 	 * 
 	 * @param pieza pieza
 	 * @param celda celda
+	 * juego tres en raya
 	 */
 	
 	public void colocar(Pieza pieza, Celda celda) {
